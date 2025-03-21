@@ -1,0 +1,5 @@
+/home/user/tasks-java/taskboard/src/main/java/com/taskboard/App.java
+/home/user/tasks-java/taskboard/src/main/java/com/taskboard/model/Task.java
+/home/user/tasks-java/taskboard/src/main/java/com/taskboard/service/TaskService.java
+/home/user/tasks-java/taskboard/src/main/java/com/taskboard/controller/TaskController.java
+/home/user/tasks-java/taskboard/src/main/java/com/taskboard/repository/TaskRepository.java

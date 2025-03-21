@@ -1,0 +1,5 @@
+com/taskboard/model/Task.class
+com/taskboard/service/TaskService.class
+com/taskboard/repository/TaskRepository.class
+com/taskboard/controller/TaskController.class
+com/taskboard/App.class
